@@ -1,0 +1,6 @@
+table{
+	background-image: url(../images/bg.jpeg);
+	border: 2px solid black;
+	background-repeat: repeat-y;
+	color: white;
+}

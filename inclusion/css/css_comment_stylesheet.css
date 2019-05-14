@@ -1,0 +1,9 @@
+/* this is external stylesheet file*/
+h1,h2,h3{
+	color: #36c;
+	font-weight: normal;
+	letter-spacing: 5px;
+	margin-bottom: 1em;
+	text-transform: lowercase;
+}
+/*end of style sheet*/

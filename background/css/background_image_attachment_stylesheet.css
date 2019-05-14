@@ -1,0 +1,13 @@
+#p1{
+	background-image: url(../images/bg.jpeg);
+	background-attachment: fixed;
+}
+#p2{
+	background-image: url(../images/bg1.jpg);
+	background-attachment: scroll;
+}
+#p2,#p1{
+	color: white;
+	height: 650px;
+	width: 934px;
+}
